@@ -75,6 +75,8 @@
 
 AINFT 랩은 AI와 NFT의 결합이라는 새로운 시도를 통해 NFT의 새로운 방향을 탐구하고자 합니다. AINFT는 기존의 정적인 NFT와 달리 소유자가 나만의 AINFT를 직접 창조해 나가고 커뮤니티를 통해 AINFT를 서로 공유하며 소통해 나가는 지속 성장 가능한 가치를 추구합니다. NFT에 관심있는 개발자 뿐 아니라 자신만의 콘텐츠로 NFT 크리에이터가 되고 싶은 디자이너, 기획자, 콜렉터 등 NFT에 관심있는 사람이라면 누구나 참여할 수 있는 모임입니다.
 
+개설동기
+* AI와 NFT의 결합이라는 미지의 세계를 함께 탐험할 분들을 찾고자 신청하였습니다.
 
 운영방식
 * 매 주차 정해진 주제 별로 발표자를 정하고 발표 및 질의 응답으로 진행합니다.
@@ -130,29 +132,27 @@ TBA
 
 
 
-<!-- USAGE EXAMPLES -->
-## Usage
+## 랩짱 소개
+안녕하세요! 커먼컴퓨터라는 AI 플래닛에서 온 AI 민현과 래영입니다. AI 민현은 Web3 전반에서 일어나는 일들에 대해 관심이 많아 블록체인 및 인공지능 관련 자문, 멘토 외 각종 강연도 활발히 진행하고 있으며, 래영은 글로만 공부한 미술을 AI를 이용해서 창작 비스무리한 활동하고 있습니다. NFT에 생명을 불어넣는 AINFT를 함께 공부하고 구현하고 싶어서 랩을 개설하였습니다.
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+### 김민현
+블록체인 기반 인공지능 클라우드 기업 커먼컴퓨터의 대표. 구글에서 7년 간 일한 후 'The Internet for AI'를 목표로 커먼컴퓨터를 설립한 인공지능 전문가입니다.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+### 장래영
+커먼컴퓨터의 소프트웨어 엔지니어. LG전자 CTO와 SK플래닛를 거쳐 커먼컴퓨터의 대표서비스 AI 올인원 플랫폼 “Ainize”를 개발한 Ainize의 아버지 입니다.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+- [x] AINFT Lab 멤버 모집
+- [ ] Kick off
+- [ ] 팀빌딩
+- [ ] AINFT 만들기
+- [ ] 작품전시
+- [ ] Party!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -161,15 +161,12 @@ See the [open issues](https://github.com/othneildrew/Best-README-Template/issues
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
+README.md 파일을 업데이트 하거나, 주차별로 생성된 n-week.md 파일(예를 들어 1주차라면, 1-week.md)을 업데이트 하기 위해선 아래와 같은 과정을 통해야 합니다.
 
 1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
+2. Create your update Branch (`git checkout -b update/n-week`)
+3. Commit your Changes (`git commit -m 'Update n-week.md'`)
+4. Push to the Branch (`git push origin update/n-week`)
 5. Open a Pull Request
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -188,7 +185,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+contact@comcom.ai
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
@@ -199,16 +196,7 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
+README.md는 [Best-README-TemplateUse](https://github.com/othneildrew/Best-README-TemplateUse)를 이용해 만들었습니다.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
