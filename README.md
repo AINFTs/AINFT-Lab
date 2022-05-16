@@ -22,7 +22,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Laeyoung/AINFT-Lab">
+  <a href="https://github.com/AINFTs/AINFT-Lab">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -226,16 +226,16 @@ README.md는 [Best-README-TemplateUse](https://github.com/othneildrew/Best-READM
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Laeyoung/AINFT-Lab.svg?style=for-the-badge
-[contributors-url]: https://github.com/Laeyoung/AINFT-Lab/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Laeyoung/AINFT-Lab.svg?style=for-the-badge
-[forks-url]: https://github.com/Laeyoung/AINFT-Lab/network/members
-[stars-shield]: https://img.shields.io/github/stars/Laeyoung/AINFT-Lab.svg?style=for-the-badge
-[stars-url]: https://github.com/Laeyoung/AINFT-Lab/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Laeyoung/AINFT-Lab.svg?style=for-the-badge
-[issues-url]: https://github.com/Laeyoung/AINFT-Lab/issues
-[license-shield]: https://img.shields.io/github/license/Laeyoung/AINFT-Lab.svg?style=for-the-badge
-[license-url]: https://github.com/Laeyoung/AINFT-Lab/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/AINFTs/AINFT-Lab.svg?style=for-the-badge
+[contributors-url]: https://github.com/AINFTs/AINFT-Lab/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/AINFTs/AINFT-Lab.svg?style=for-the-badge
+[forks-url]: https://github.com/AINFTs/AINFT-Lab/network/members
+[stars-shield]: https://img.shields.io/github/stars/AINFTs/AINFT-Lab.svg?style=for-the-badge
+[stars-url]: https://github.com/AINFTs/AINFT-Lab/stargazers
+[issues-shield]: https://img.shields.io/github/issues/AINFTs/AINFT-Lab.svg?style=for-the-badge
+[issues-url]: https://github.com/AINFTs/AINFT-Lab/issues
+[license-shield]: https://img.shields.io/github/license/AINFTs/AINFT-Lab.svg?style=for-the-badge
+[license-url]: https://github.com/AINFTs/AINFT-Lab/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
