@@ -98,35 +98,57 @@ AINFT 랩은 AI와 NFT의 결합이라는 새로운 시도를 통해 NFT의 새�
 ### 1주차
 오리엔테이션 + 아이스브레이킹 + AINFT (한글 설명) + AIN DAO 가입
 
+[1주차 상세](docs/1-week.md)
+
 ### 2주차
 NFT 사례 탐방 (ERC721, ERC1155, Solana, OpenSea, BAYC, DOODLES)
+
+[2주차 상세](docs/2-week.md)
 
 ### 3주차
 나만의 NFT 만들어서 Testnet에 Minting 하기 (이더리움, 솔라나)
 
+[3주차 상세](docs/3-week.md)
+
 ### 4주차
 AI 사례 탐방 (GPT-3, DALL-E 2, Disco-Diffusion 등)
+
+[4주차 상세](docs/4-week.md)
 
 ### 5주차
 프로젝트 제안 & Team Building
 
+[5주차 상세](docs/5-week.md)
+
 ### 6주차
 TBA
+
+[6주차 상세](docs/6-week.md)
 
 ### 7주차
 TBA
 
+[7주차 상세](docs/7-week.md)
+
 ### 8주차
 TBA
+
+[8주차 상세](docs/8-week.md)
 
 ### 9주차
 TBA
 
+[9주차 상세](docs/9-week.md)
+
 ### 10주차
 TBA
 
+[10주차 상세](docs/10-week.md)
+
 ### 11주차
 작품 등록 + 전시 참여(가능하다면) + Party!
+
+[11주차 상세](docs/11-week.md)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
