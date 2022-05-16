@@ -17,136 +17,114 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/Laeyoung/AINFT-Lab">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">AINFT Lab</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    AINFT 랩은 AI와 NFT의 결합이라는 새로운 시도를 통해 NFT의 새로운 방향을 탐구하고자 합니다. AINFT는 기존의 정적인 NFT와 달리 소유자가 나만의 AINFT를 직접 창조해 나가고 커뮤니티를 통해 AINFT를 서로 공유하며 소통해 나가는 지속 성장 가능한 가치를 추구합니다. NFT에 관심있는 개발자 뿐 아니라 자신만의 콘텐츠로 NFT 크리에이터가 되고 싶은 디자이너, 기획자, 콜렉터 등 NFT에 관심있는 사람이라면 누구나 참여할 수 있는 모임입니다.
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://discord.gg/3MBZ7tQ8C4">AIN DAO Discord 초대장</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://forum2.ainetwork.ai/">AINFT Lab Forum</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://modulabs-hub.oopy.io/">모두의연구소 LAB</a>
   </p>
 </div>
 
-
-
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
+  <summary>활동계획</summary>
   <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#1주차">주차: 오리엔테이션 + 아이스브레이킹 + AINFT (한글 설명) + AIN DAO 가입</a></li>
+    <li><a href="#2주차">주차: NFT 사례 탐방 (ERC721, ERC1155, Solana, OpenSea, BAYC, DOODLES)</a></li>
+    <li><a href="#3주차">주차: 나만의 NFT 만들어서 Testnet에 Minting 하기 (이더리움, 솔라나)</a></li>
+    <li><a href="#4주차">주차: AI 사례 탐방 (GPT-3, DALL-E 2, Disco-Diffusion 등)</a></li>
+    <li><a href="#5주차">주차: 프로젝트 제안 & Team Building</a></li>
+    <li><a href="#6주차">주차: TBA</a></li>
+    <li><a href="#7주차">주차: TBA</a></li>
+    <li><a href="#8주차">주차: TBA</a></li>
+    <li><a href="#9주차">주차: TBA</a></li>
+    <li><a href="#10주차">주차: TBA</a></li>
+    <li><a href="#11주차">주차: 작품 등록 + 전시 참여(가능하다면) + Party!</a></li>
   </ol>
 </details>
 
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## AINFT Lab 소개
+
+[![Issues][issues-shield]][issues-url]
+[![Contributors][contributors-shield]][contributors-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Forks][forks-shield]][forks-url]
+
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
+AINFT 랩은 AI와 NFT의 결합이라는 새로운 시도를 통해 NFT의 새로운 방향을 탐구하고자 합니다. AINFT는 기존의 정적인 NFT와 달리 소유자가 나만의 AINFT를 직접 창조해 나가고 커뮤니티를 통해 AINFT를 서로 공유하며 소통해 나가는 지속 성장 가능한 가치를 추구합니다. NFT에 관심있는 개발자 뿐 아니라 자신만의 콘텐츠로 NFT 크리에이터가 되고 싶은 디자이너, 기획자, 콜렉터 등 NFT에 관심있는 사람이라면 누구나 참여할 수 있는 모임입니다.
 
 
+운영방식
+* 매 주차 정해진 주제 별로 발표자를 정하고 발표 및 질의 응답으로 진행합니다.
+* NFT 작품은 함께 작품들에 대해 의견 교환하는 시간을 포함하여, 개인 혹은 팀 별 역할 분담하여 완성해나갑니다.
+* 추가 지원:
+  * 작품 등록 비용 지원
+  * 전시 비용 지원
+  * GPU 자원 지원
 
-### Built With
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+참여조건 (마감됨)
+* 기본적으로 NFT에 관심있어야 하고 AI 관련 경험이 있는 개발자/기획자/디자이너/AI연구자 라면 참가 가능합니다. (개발-기획-디자인 팀으로 구성될 예정이므로 개발 경험이 없는 기획자, 디자이너 참가 가능)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## 활동계획 및 진행
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+### 1주차
+오리엔테이션 + 아이스브레이킹 + AINFT (한글 설명) + AIN DAO 가입
 
-### Prerequisites
+### 2주차
+NFT 사례 탐방 (ERC721, ERC1155, Solana, OpenSea, BAYC, DOODLES)
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+### 3주차
+나만의 NFT 만들어서 Testnet에 Minting 하기 (이더리움, 솔라나)
 
-### Installation
+### 4주차
+AI 사례 탐방 (GPT-3, DALL-E 2, Disco-Diffusion 등)
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+### 5주차
+프로젝트 제안 & Team Building
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+### 6주차
+TBA
+
+### 7주차
+TBA
+
+### 8주차
+TBA
+
+### 9주차
+TBA
+
+### 10주차
+TBA
+
+### 11주차
+작품 등록 + 전시 참여(가능하다면) + Party!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
