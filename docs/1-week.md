@@ -12,4 +12,4 @@
 - [a16z crypto](https://a16zcrypto.com/)에 있는 글을 가지고, 그룹핑해서 매주 3명(각각 20분)이 발표하는 식으로 진행 예정
 - 팀빌딩은 5주차에 진행 예정
 
-<img src="photos/1-week_1.jpg" width="800" height="600">
+<img src="../photos/1-week_1.jpg" width="800" height="600">
