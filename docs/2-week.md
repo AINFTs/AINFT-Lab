@@ -2,6 +2,8 @@
 
 ## 1. [Linda Xie 의 NFT 초보자 가이드](https://docs.google.com/document/d/14kx02z5MMyazIYvSWTQee7CQK3RiPWb7RDqKI0TybYY/edit?usp=sharing) - 조현길 연구원님
 
+[원문](https://linda.mirror.xyz/df649d61efb92c910464a4e74ae213c4cab150b9cbcc4b7fb6090fc77881a95d)
+
 ## 2. Discord용 QA Chatbot 만들기 - 장래영 랩짱
 
 [보기 편한 Notion 링크](https://link.ainize.ai/discord-chatbot)
