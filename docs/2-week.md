@@ -69,7 +69,7 @@
 
 2. 원하는 AI Model 선택
 
-   - GPT-J 6B (Eng), KoGPT 6B (Kor)
+   - 선택 가능한 모델은 `[GPT-J 6B (Eng)](https://huggingface.co/EleutherAI/gpt-j-6B)` 와 `[KoGPT 6B (Kor)](https://huggingface.co/kakaobrain/kogpt)`  2가지가 있습니다. GPT-J 6B는 EleutherAI가 공개한 영어 기반 모델이며, KoGPT 6B의 경우 KakaoBrain이 공개한 한국어 기반 모델 입니다. (GPT-J에 대한 자세한 정보는 다음 [link](https://medium.com/ai-networkkr/ai-%EB%AA%A8%EB%8D%B8-%ED%83%90%ED%97%98%EA%B8%B0-21-gpt-3%EC%9D%98-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EB%B2%84%EC%A0%84-gpt-j-de3bdcdf65dd)를 통해 확인하세요.)
 
    ![스크린샷 2022-05-24 오후 6.10.59.png](/images/discord-chatbot/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2022-05-24_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_6.10.59.png)
 
@@ -80,6 +80,8 @@
 4. Q&A Dialog 3개 완성하기 (질문과 답변 3쌍)
 
    ![스크린샷 2022-05-24 오후 6.13.53.png](/images/discord-chatbot/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2022-05-24_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_6.13.53.png)
+
+    - 질문과 답변은 Few-shot learning을 통해 챗봇에 Identity를 주는데 사용됩니다
 
 5. 완성!
 
@@ -104,6 +106,8 @@
 ### Discord용 QA Chatbot의 구조도
 
 ![스크린샷 2022-05-24 오후 9.43.25.png](/images/discord-chatbot/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2022-05-24_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_9.43.25.png)
+
+
 
 ## 3. [???](https://future.a16z.com/7-essential-ingredients-of-a-metaverse) - 김민현 랩짱
 
