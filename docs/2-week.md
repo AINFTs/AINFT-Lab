@@ -109,7 +109,9 @@
 
 
 
-## 3. [???](https://future.a16z.com/7-essential-ingredients-of-a-metaverse) - 김민현 랩짱
+## 3. [Headless Brands](https://otherinter.net/research/headless-brands/) - 김민현 랩짱
+
+- 추가 자료: [Progressive Decentralization: A Playbook for Building Crypto Applications](https://jessewalden.com/progressive-decentralization-a-playbook-for-building-crypto-applications)
 
 ## 공지사항
 
