@@ -31,8 +31,6 @@
   <p align="center">
     AINFT 랩은 AI와 NFT의 결합이라는 새로운 시도를 통해 NFT의 새로운 방향을 탐구하고자 합니다. AINFT는 기존의 정적인 NFT와 달리 소유자가 나만의 AINFT를 직접 창조해 나가고 커뮤니티를 통해 AINFT를 서로 공유하며 소통해 나가는 지속 성장 가능한 가치를 추구합니다. NFT에 관심있는 개발자 뿐 아니라 자신만의 콘텐츠로 NFT 크리에이터가 되고 싶은 디자이너, 기획자, 콜렉터 등 NFT에 관심있는 사람이라면 누구나 참여할 수 있는 모임입니다.
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
     <br />
     <a href="https://discord.gg/3MBZ7tQ8C4">AIN DAO Discord 초대장</a>
     ·
@@ -170,7 +168,7 @@ TBA
 ## Roadmap
 
 - [x] AINFT Lab 멤버 모집
-- [ ] Kick off
+- [x] Kick off
 - [ ] 팀빌딩
 - [ ] AINFT 만들기
 - [ ] 작품전시
