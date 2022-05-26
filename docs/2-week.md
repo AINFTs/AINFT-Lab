@@ -117,4 +117,16 @@
 
 ## 공지사항
 
-1. 발표 그룹 공개 및 팀 미팅
+### 발표 그룹 및 순서
+
+1. 6/8 - Crypto
+1. 6/15 - DAO 1
+1. 6/22 - DAO 2
+1. 6/29 - Decentralization
+1. 7/6 - NFT 1
+1. 7/13 - NFT 2
+1. 7/20 - NFT 3
+1. 7/27 - Creators & Metaverse
+
+
+<img src="../photos/2-week_1.jpg" width="800" height="600">
