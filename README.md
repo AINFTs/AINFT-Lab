@@ -99,9 +99,9 @@ AINFT 랩은 AI와 NFT의 결합이라는 새로운 시도를 통해 NFT의 새�
 [1주차 상세](docs/1-week.md)
 
 ### 2주차
-- [Linda Xied의 NFT 초보자 가이드](https://github.com/AINFTs/AINFT-Lab/blob/master/docs/2-week.md#1-linda-xie-%EC%9D%98-nft-%EC%B4%88%EB%B3%B4%EC%9E%90-%EA%B0%80%EC%9D%B4%EB%93%9C---%EC%A1%B0%ED%98%84%EA%B8%B8-%EC%97%B0%EA%B5%AC%EC%9B%90%EB%8B%98)
-- [Discord용 QA Chatbot 만들기](https://github.com/AINFTs/AINFT-Lab/blob/master/docs/2-week.md#2-discord%EC%9A%A9-qa-chatbot-%EB%A7%8C%EB%93%A4%EA%B8%B0---%EC%9E%A5%EB%9E%98%EC%98%81-%EB%9E%A9%EC%A7%B1)
-- [???](https://github.com/AINFTs/AINFT-Lab/blob/master/docs/2-week.md#3----%EA%B9%80%EB%AF%BC%ED%98%84-%EB%9E%A9%EC%A7%B1)
+- [Linda Xied의 NFT 초보자 가이드](https://github.com/AINFTs/AINFT-Lab/blob/master/docs/2-week.md#1-linda-xie-%EC%9D%98-nft-%EC%B4%88%EB%B3%B4%EC%9E%90-%EA%B0%80%EC%9D%B4%EB%93%9C---%EC%A1%B0%ED%98%84%EA%B8%B8-%EC%97%B0%EA%B5%AC%EC%9B%90%EB%8B%98) - 조현길 연구원님
+- [Discord용 QA Chatbot 만들기](https://github.com/AINFTs/AINFT-Lab/blob/master/docs/2-week.md#2-discord%EC%9A%A9-qa-chatbot-%EB%A7%8C%EB%93%A4%EA%B8%B0---%EC%9E%A5%EB%9E%98%EC%98%81-%EB%9E%A9%EC%A7%B1) - 장래영
+- [Headless Brands](https://github.com/AINFTs/AINFT-Lab/blob/master/docs/2-week.md#3----%EA%B9%80%EB%AF%BC%ED%98%84-%EB%9E%A9%EC%A7%B1) - 김민현
 
 ### 3주차
 나만의 NFT 만들어서 Testnet에 Minting 하기 (이더리움, 솔라나)
