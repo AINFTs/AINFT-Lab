@@ -94,9 +94,7 @@ AINFT 랩은 AI와 NFT의 결합이라는 새로운 시도를 통해 NFT의 새�
 ## 활동계획 및 진행
 
 ### 1주차
-오리엔테이션 + 아이스브레이킹 + AINFT (한글 설명) + AIN DAO 가입
-
-[1주차 상세](docs/1-week.md)
+- [오리엔테이션 + 아이스브레이킹 + AINFT (한글 설명) + AIN DAO 가입](docs/1-week.md)
 
 ### 2주차
 - [Linda Xied의 NFT 초보자 가이드](https://github.com/AINFTs/AINFT-Lab/blob/master/docs/2-week.md#1-linda-xie-%EC%9D%98-nft-%EC%B4%88%EB%B3%B4%EC%9E%90-%EA%B0%80%EC%9D%B4%EB%93%9C---%EC%A1%B0%ED%98%84%EA%B8%B8-%EC%97%B0%EA%B5%AC%EC%9B%90%EB%8B%98) - 조현길 연구원님
