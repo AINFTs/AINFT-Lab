@@ -133,7 +133,7 @@ AINFT 랩은 AI와 NFT의 결합이라는 새로운 시도를 통해 NFT의 새�
 [8주차 상세](docs/8-week.md)
 
 ### 9주차
-- NFT 3
+- [The Non-Fungible Token Bible: Everything you need to know about NFTs](https://opensea.io/blog/guides/non-fungible-tokens/#What_is_a_non-fungible_token)
 
 [9주차 상세](docs/9-week.md)
 
