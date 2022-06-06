@@ -102,7 +102,7 @@ AINFT 랩은 AI와 NFT의 결합이라는 새로운 시도를 통해 NFT의 새�
 - [Headless Brands](https://github.com/AINFTs/AINFT-Lab/blob/master/docs/2-week.md#3----%EA%B9%80%EB%AF%BC%ED%98%84-%EB%9E%A9%EC%A7%B1) - 김민현
 
 ### 3주차
-- Crypto
+- [The Crypto Anarchist Manifesto](https://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-crypto-manifesto.html)
 
 [3주차 상세](docs/3-week.md)
 
