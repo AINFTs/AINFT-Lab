@@ -1,8 +1,9 @@
 # 3주차
 
-## 1. [The Crypto Anarchist Manifesto](https://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-crypto-manifesto.html) - 전선영님, 박범석님
+## 1. The Crypto Anarchist Manifesto - 박범석님, 전선영님
 
-- [자료]()
+- [The Crypto Anarchist Manifesto](https://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-crypto-manifesto.html)
+- [crypto-will-change-value-nfts-will](https://andrewsteinwold.substack.com/p/crypto-will-change-value-nfts-will)
 
 ## 2. 이터니티 소개 - 박지은님
 
