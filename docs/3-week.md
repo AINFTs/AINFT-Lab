@@ -9,8 +9,8 @@
 
 - [펄스나인 홈페이지](https://www.pulse9.net)
 - [펄스나인 유튜브](https://www.youtube.com/c/PULSE9_Inc)
-- [이터니티](https://planet-aiia.com/)
-- [Discord](https://discord.com/invite/9hrrUMfzpN)
+- [이터니티 ](https://planet-aiia.com/)
+- [이터니티 Discord](https://discord.com/invite/9hrrUMfzpN)
 
 ## 3. AINFT Chatbot for yeoreum - 장래영 랩짱
 
