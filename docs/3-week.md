@@ -6,6 +6,7 @@
 
 ## 2. 이터니티 소개 - 박지은님
 
+- [펄스나인](https://www.pulse9.net), [유튜브](https://www.youtube.com/c/PULSE9_Inc)
 - [이터니티](https://planet-aiia.com/)
 - [Discord](https://discord.com/invite/9hrrUMfzpN)
 
