@@ -9,7 +9,12 @@
 - [이터니티](https://planet-aiia.com/)
 - [Discord](https://discord.com/invite/9hrrUMfzpN)
 
-## 3. yeoreum AINFT Chatbot Demo - 장래영 랩짱
+## 3. AINFT Chatbot for yeoreum - 장래영 랩짱
+
+지난 시간에는 AINFT Chatbot Builder를 통해, No code 형식으로 만들어지는 chatbot을 봤다면 이번에는 이터니티 멤버인 yeoreum을 위한 AINFT Chatbot을 만드는 법을 소개 시켜 드립니다.
+
+Q. 그런데 왜 Discord Bot이 중요한가요?
+
 
 - [Code](https://github.com/Laeyoung/discord-bot-for-yeoreum)
 
