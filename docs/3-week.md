@@ -1,12 +1,13 @@
 # 3주차
 
-## 1. [The Crypto Anarchist Manifesto](https://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-crypto-manifesto.html)
+## 1. [The Crypto Anarchist Manifesto](https://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-crypto-manifesto.html) - 전선영님, 박범석님
 
 - [자료]()
 
 ## 2. 이터니티 소개 - 박지은님
 
-- [펄스나인](https://www.pulse9.net), [유튜브](https://www.youtube.com/c/PULSE9_Inc)
+- [펄스나인 홈페이지](https://www.pulse9.net)
+- [펄스나인 유튜브](https://www.youtube.com/c/PULSE9_Inc)
 - [이터니티](https://planet-aiia.com/)
 - [Discord](https://discord.com/invite/9hrrUMfzpN)
 
@@ -45,7 +46,14 @@ Discord Bot API 중 가장 많이 사용하는 /command 기능과 /trigger 기�
 
 ## 4. 테이블 별 자기소개 및 친해지기
 
-중간 휴식 후, 테이블 별로 자기소개 및 친해지기 시간을 15분간 갖겠습니다.
+중간 휴식 후, 테이블 별로 자기소개 및 친해지기 시간을 15분간 가지겠습니다.
 
 ## 5. Team Building 및 프로젝트 선정 방식 공지
+다음 주부터 프로젝트 선정과 팀빌딩을 시작합니다. 프로젝트 선정과 팀빌딩은 해커톤 방식으로 진행됩니다.
+
+1. 프로젝트에 대한 아이디어가 있으신 분이 프로젝트에 대한 설명이 담긴 기획 Proposal을 Discord에 업로드
+2. 올라온 프로젝트들을 보고 참여하고 싶은 분이 해당 프로젝트에 지원
+3. 프로젝트 별 최대 인원은 4명이고, 인원이 너무 많은 경우 Proposal을 올린 분인 함께 할 팀원을 선정
+4. 프로젝트에 참여 할 사람이 없거나 부족한 경우, 해당 프로젝트는 진행이 안되고 다른 프로젝트에 팀원으로 참여
+5. 만약 프로젝트에 속하지 못한 랩원이 생기면, 간단한 버전으로 1~4을 퀵하게 진행
 
