@@ -108,6 +108,8 @@ AINFT 랩은 AI와 NFT의 결합이라는 새로운 시도를 통해 NFT의 새�
 
 ### 4주차
 - [What is a DAO?](https://blog.aragon.org/what-is-a-dao/) - 이동훈, 김진수, 조은정, 채진재
+- [프로젝트 Proposal & DAO Process](https://dao.ainetwork.ai/t/proposal-ainft-lab/57/2) - 유민정
+- [AINFT, Soul Night in NYC](https://www.soulnight.xyz/)
 
 [4주차 상세](docs/4-week.md)
 
