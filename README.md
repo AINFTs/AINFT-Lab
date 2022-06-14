@@ -103,11 +103,11 @@ AINFT 랩은 AI와 NFT의 결합이라는 새로운 시도를 통해 NFT의 새�
 
 ### 3주차
 - [The Crypto Anarchist Manifesto](https://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-crypto-manifesto.html)
-
-[3주차 상세](docs/3-week.md)
+- [이터니티 소개](https://github.com/AINFTs/AINFT-Lab/blob/master/docs/3-week.md#2-%EC%9D%B4%ED%84%B0%EB%8B%88%ED%8B%B0-%EC%86%8C%EA%B0%9C---%EB%B0%95%EC%A7%80%EC%9D%80%EB%8B%98) - 박지은님
+- [AINFT Chatbot for yeoreum](https://github.com/AINFTs/AINFT-Lab/blob/master/docs/3-week.md#3-ainft-chatbot-for-yeoreum---%EC%9E%A5%EB%9E%98%EC%98%81-%EB%9E%A9%EC%A7%B1) - 장래영
 
 ### 4주차
-- DAO 1
+- [What is a DAO?](https://blog.aragon.org/what-is-a-dao/) - 이동훈, 김진수, 조은정, 채진재
 
 [4주차 상세](docs/4-week.md)
 
