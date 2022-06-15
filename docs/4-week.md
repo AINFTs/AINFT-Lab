@@ -3,7 +3,7 @@
 ## 1. [What is a DAO?](https://blog.aragon.org/what-is-a-dao/) - 이동훈님, 김진수님, 조은정님, 채진재님
 - [발표자료](https://docs.google.com/presentation/d/1ecZ4Lh_ODM1Nx3Ey20zX2O90kWnNXt_vn1nHnQACN18/)
 
-## 2. [AIN DAO와 AINFT LAB 협의 과정]([https://dao.ainetwork.ai/t/proposal-ainft-lab/57/2](https://docs.google.com/presentation/d/1oUnqb8w9QRRAVGScLBce4B7oviRSqIf3hT5YZ7lClX4/edit)) - 유민정님
+## 2. [AIN DAO와 AINFT LAB 협의 과정](https://docs.google.com/presentation/d/1oUnqb8w9QRRAVGScLBce4B7oviRSqIf3hT5YZ7lClX4/edit) - 유민정님
 
 ## 3. [프로젝트 proposal 올리기](https://github.com/orgs/AINFTs/projects/1) - 장래영
 
