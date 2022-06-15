@@ -98,25 +98,25 @@ AINFT 랩은 AI와 NFT의 결합이라는 새로운 시도를 통해 NFT의 새�
 
 ### 2주차
 - [Linda Xied의 NFT 초보자 가이드](https://github.com/AINFTs/AINFT-Lab/blob/master/docs/2-week.md#1-linda-xie-%EC%9D%98-nft-%EC%B4%88%EB%B3%B4%EC%9E%90-%EA%B0%80%EC%9D%B4%EB%93%9C---%EC%A1%B0%ED%98%84%EA%B8%B8-%EC%97%B0%EA%B5%AC%EC%9B%90%EB%8B%98) - 조현길 연구원님
-- [Discord용 QA Chatbot 만들기](https://github.com/AINFTs/AINFT-Lab/blob/master/docs/2-week.md#2-discord%EC%9A%A9-qa-chatbot-%EB%A7%8C%EB%93%A4%EA%B8%B0---%EC%9E%A5%EB%9E%98%EC%98%81-%EB%9E%A9%EC%A7%B1) - 장래영
-- [Headless Brands](https://github.com/AINFTs/AINFT-Lab/blob/master/docs/2-week.md#3----%EA%B9%80%EB%AF%BC%ED%98%84-%EB%9E%A9%EC%A7%B1) - 김민현
+- [Discord용 QA Chatbot 만들기](https://github.com/AINFTs/AINFT-Lab/blob/master/docs/2-week.md#2-discord%EC%9A%A9-qa-chatbot-%EB%A7%8C%EB%93%A4%EA%B8%B0---%EC%9E%A5%EB%9E%98%EC%98%81-%EB%9E%A9%EC%A7%B1) - 장래영님
+- [Headless Brands](https://github.com/AINFTs/AINFT-Lab/blob/master/docs/2-week.md#3----%EA%B9%80%EB%AF%BC%ED%98%84-%EB%9E%A9%EC%A7%B1) - 김민현님
 
 ### 3주차
 - [The Crypto Anarchist Manifesto](https://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/may-crypto-manifesto.html)
 - [이터니티 소개](https://github.com/AINFTs/AINFT-Lab/blob/master/docs/3-week.md#2-%EC%9D%B4%ED%84%B0%EB%8B%88%ED%8B%B0-%EC%86%8C%EA%B0%9C---%EB%B0%95%EC%A7%80%EC%9D%80%EB%8B%98) - 박지은님
-- [AINFT Chatbot for yeoreum](https://github.com/AINFTs/AINFT-Lab/blob/master/docs/3-week.md#3-ainft-chatbot-for-yeoreum---%EC%9E%A5%EB%9E%98%EC%98%81-%EB%9E%A9%EC%A7%B1) - 장래영
+- [AINFT Chatbot for yeoreum](https://github.com/AINFTs/AINFT-Lab/blob/master/docs/3-week.md#3-ainft-chatbot-for-yeoreum---%EC%9E%A5%EB%9E%98%EC%98%81-%EB%9E%A9%EC%A7%B1) - 장래영님
 
 ### 4주차
-- [What is a DAO?](https://blog.aragon.org/what-is-a-dao/) - 이동훈, 김진수, 조은정, 채진재
-- [AIN DAO와 AINFT LAB 협의 과정]([https://dao.ainetwork.ai/t/proposal-ainft-lab/57/2](https://docs.google.com/presentation/d/1oUnqb8w9QRRAVGScLBce4B7oviRSqIf3hT5YZ7lClX4/edit)) - 유민정
-- [프로젝트 proposal 올리기](https://github.com/orgs/AINFTs/projects/1/views/1) - 장래영
-- [Babyshark Minigame](https://discord.gg/RuW6PqfNvH)
+- [What is a DAO?](https://github.com/AINFTs/AINFT-Lab/blob/master/docs/4-week.md#1-what-is-a-dao---%EC%9D%B4%EB%8F%99%ED%9B%88%EB%8B%98-%EA%B9%80%EC%A7%84%EC%88%98%EB%8B%98-%EC%A1%B0%EC%9D%80%EC%A0%95%EB%8B%98-%EC%B1%84%EC%A7%84%EC%9E%AC%EB%8B%98) - 이동훈님, 김진수님, 조은정님, 채진재님
+- [AIN DAO와 AINFT LAB 협의 과정](https://github.com/AINFTs/AINFT-Lab/blob/master/docs/4-week.md#2-ain-dao%EC%99%80-ainft-lab-%ED%98%91%EC%9D%98-%EA%B3%BC%EC%A0%95---%EC%9C%A0%EB%AF%BC%EC%A0%95%EB%8B%98) - 유민정님
+- [프로젝트 proposal 올리기](https://github.com/AINFTs/AINFT-Lab/blob/master/docs/4-week.md#3-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-proposal-%EC%98%AC%EB%A6%AC%EA%B8%B0---%EC%9E%A5%EB%9E%98%EC%98%81) - 장래영님
+- [Babyshark Minigame](https://github.com/AINFTs/AINFT-Lab/blob/master/docs/4-week.md#4-babyshark-minigame) - 장래영님
 
 [4주차 상세](docs/4-week.md)
 
 ### 5주차
 
-#### A DAO Defined(What is a DAO) - 김헌후, 이영석, 김진우, 이동민
+#### A DAO Defined(What is a DAO) - 김헌후님, 이영석님, 김진우님, 이동민님
 - DAO의 정의 및 특징을 소개하고, 국내외에서 활용되고 있는 사례를 중심으로 발표해보려고 합니다.
 - References
   1. https://hackernoon.com/what-is-a-dao-c7e84aa1bd69
