@@ -108,7 +108,8 @@ AINFT 랩은 AI와 NFT의 결합이라는 새로운 시도를 통해 NFT의 새�
 
 ### 4주차
 - [What is a DAO?](https://blog.aragon.org/what-is-a-dao/) - 이동훈, 김진수, 조은정, 채진재
-- [프로젝트 Proposal & DAO Process](https://dao.ainetwork.ai/t/proposal-ainft-lab/57/2) - 유민정
+- [AIN DAO와 AINFT LAB 협의 과정]([https://dao.ainetwork.ai/t/proposal-ainft-lab/57/2](https://docs.google.com/presentation/d/1oUnqb8w9QRRAVGScLBce4B7oviRSqIf3hT5YZ7lClX4/edit)) - 유민정
+- [프로젝트 proposal 올리기](https://github.com/orgs/AINFTs/projects/1/views/1) - 장래영
 - [Babyshark Minigame](https://discord.gg/RuW6PqfNvH)
 
 [4주차 상세](docs/4-week.md)
