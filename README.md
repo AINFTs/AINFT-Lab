@@ -117,11 +117,13 @@ AINFT 랩은 AI와 NFT의 결합이라는 새로운 시도를 통해 NFT의 새�
 ### 5주차
 
 #### A DAO Defined(What is a DAO) - 김헌후님, 이영석님, 김진우님, 이동민님
-- DAO의 정의 및 특징을 소개하고, 국내외에서 활용되고 있는 사례를 중심으로 발표해보려고 합니다.
+- DAO의 정의 및 특징을 소개하고, 국내외에서 활용되고 있는 사례를 중심으로
 - References
   1. https://hackernoon.com/what-is-a-dao-c7e84aa1bd69
   2. https://medium.com/@LuigiGrx/2-2-daos-a-new-organizational-and-governance-paradigm-93e889df1b39
   3. https://blog.aragon.org/a-dao-defined-the-big-picture/
+
+#### Stepn 히스토리 - 백동훈님
 
 #### 프로젝트 제안 & Team Building
 
