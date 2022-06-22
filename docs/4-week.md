@@ -29,3 +29,5 @@
 - 모든 유저의 게임 기록이 블록체인 상에 기록됨 (ex. [제 기록](https://insight.ainetwork.ai/database/values/apps/baby_shark/0xCd011Df1708FE6EBf7A56Ba86519eeDfcADc80f5))
 - 이렇게 기록된 내용을 가지고 **1등에게는 Baby Shark NFT airdrop**을, 그 아래 25명에게는 whitelist 초대를 줍니다 ([Leader board](https://nft.babyshark.com/game/leaderboard))
 - 지금은 기록에 관련된 내용만 블록체인(state layer)에 올라가 있지만, 게임 자체과 기록을 계산하는 코드와 실행까지 블록체인(computation layer)에 올라가면, 블록체인이 살아 있는 한 영원히 실행되고 기록이 남는 Game을 만들 수 있음
+
+## 5. [4주차 촬영본](https://drive.google.com/drive/folders/17bq6CCM3xxZm96xd0hFr1Ji9abpTWX_f)
