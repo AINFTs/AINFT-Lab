@@ -112,22 +112,10 @@ AINFT 랩은 AI와 NFT의 결합이라는 새로운 시도를 통해 NFT의 새�
 - [프로젝트 proposal 올리기](https://github.com/AINFTs/AINFT-Lab/blob/master/docs/4-week.md#3-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-proposal-%EC%98%AC%EB%A6%AC%EA%B8%B0---%EC%9E%A5%EB%9E%98%EC%98%81) - 장래영님
 - [Babyshark Minigame](https://github.com/AINFTs/AINFT-Lab/blob/master/docs/4-week.md#4-babyshark-minigame) - 장래영님
 
-[4주차 상세](docs/4-week.md)
-
 ### 5주차
-
-#### A DAO Defined(What is a DAO) - 김헌후님, 이영석님, 김진우님, 이동민님
-- DAO의 정의 및 특징을 소개하고, 국내외에서 활용되고 있는 사례를 중심으로
-- References
-  1. https://hackernoon.com/what-is-a-dao-c7e84aa1bd69
-  2. https://medium.com/@LuigiGrx/2-2-daos-a-new-organizational-and-governance-paradigm-93e889df1b39
-  3. https://blog.aragon.org/a-dao-defined-the-big-picture/
-
-#### Stepn 히스토리 - 백동훈님
-
-#### 프로젝트 제안 & Team Building
-
-[5주차 상세](docs/5-week.md)
+- [A DAO Defined(What is a DAO)](https://github.com/AINFTs/AINFT-Lab/blob/master/docs/5-week.md#1-a-dao-definedwhat-is-a-dao---%EA%B9%80%ED%97%8C%ED%9B%84%EB%8B%98-%EC%9D%B4%EC%98%81%EC%84%9D%EB%8B%98-%EA%B9%80%EC%A7%84%EC%9A%B0%EB%8B%98-%EC%9D%B4%EB%8F%99%EB%AF%BC%EB%8B%98) - 김헌후님, 이영석님, 김진우님, 이동민님
+- [Stepn 히스토리](https://github.com/AINFTs/AINFT-Lab/blob/master/docs/5-week.md#2-stepn-%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC---%EB%B0%B1%EB%8F%99%ED%9B%88%EB%8B%98) - 백동훈님
+- [프로젝트 자유 토론](https://github.com/AINFTs/AINFT-Lab/blob/master/docs/5-week.md#3-ainft-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EC%97%90-%EB%8C%80%ED%95%9C-%EC%9E%90%EC%9C%A0-%ED%86%A0%EB%A1%A0---%EB%8B%A4-%EA%B0%99%EC%9D%B4-%EB%8F%8C%EC%95%84%EA%B0%80%EB%A9%B4%EC%84%9C-1%EB%B6%84%EC%94%A9-1%EB%B6%84%EC%94%A9)
 
 ### 6주차
 - Decentralization
