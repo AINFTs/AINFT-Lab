@@ -58,3 +58,4 @@ Discord Bot API 중 가장 많이 사용하는 /command 기능과 /trigger 기�
 4. 프로젝트에 참여 할 사람이 없거나 부족한 경우, 해당 프로젝트는 진행이 안되고 다른 프로젝트에 팀원으로 참여
 5. 만약 프로젝트에 속하지 못한 랩원이 생기면, 간단한 버전으로 1~4을 퀵하게 진행
 
+## 6. [3주차 촬영본](https://drive.google.com/drive/folders/1IDwckw5PTfWucRcW2j7pUlgwATcYmOnT)
