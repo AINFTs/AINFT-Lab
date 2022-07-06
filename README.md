@@ -118,7 +118,9 @@ AINFT 랩은 AI와 NFT의 결합이라는 새로운 시도를 통해 NFT의 새�
 - [프로젝트 자유 토론](https://github.com/AINFTs/AINFT-Lab/blob/master/docs/5-week.md#3-ainft-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EC%97%90-%EB%8C%80%ED%95%9C-%EC%9E%90%EC%9C%A0-%ED%86%A0%EB%A1%A0---%EB%8B%A4-%EA%B0%99%EC%9D%B4-%EB%8F%8C%EC%95%84%EA%B0%80%EB%A9%B4%EC%84%9C-1%EB%B6%84%EC%94%A9-1%EB%B6%84%EC%94%A9)
 
 ### 6주차
-- Decentralization
+- [Decentralization](https://github.com/AINFTs/AINFT-Lab/blob/master/docs/6-week.md#1-decentralization---%EA%B9%80%ED%98%95%EC%84%AD%EB%8B%98-%EB%B0%95%EC%A0%95%ED%99%98%EB%8B%98) - 김형섭님, 박정환님
+- [Decentralization and Valuation](https://github.com/AINFTs/AINFT-Lab/blob/master/docs/6-week.md#2-decentralization-and-valuation---%EA%B9%80%EB%AF%BC%ED%98%84%EB%8B%98) - 김민현님
+- [프로젝트 아이디어 및 멤버 모집](https://github.com/AINFTs/AINFT-Lab/blob/master/docs/6-week.md#3-ainft-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4-%EB%B0%8F-%EB%A9%A4%EB%B2%84-%EB%AA%A8%EC%A7%91)
 
 [6주차 상세](docs/6-week.md)
 
