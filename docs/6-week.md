@@ -2,8 +2,6 @@
 
 ## 1. [Decentralization](https://github.com/AINFTs/AINFT-Lab/blob/master/files/220629_Decentralization_introHSK.pptx) - 김형섭님, 박정환님
 
-DAO의 정의 및 특징을 소개하고, 국내외에서 활용되고 있는 사례를 중심으로
-
 - [Decentralization for Web3 Builders: Principles, Models, How](https://future.com/web3-decentralization-models-framework-principles-how-to/)
 - [Swarm Learning for decentralized and confidential clinical machine learning](https://www.nature.com/articles/s41586-021-03583-3)
 
