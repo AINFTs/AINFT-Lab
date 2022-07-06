@@ -1,6 +1,6 @@
-# 5주차
+# 6주차
 
-## 1. Decentralization - 김형섭님, 이영석님, 김진우님, 이동민님
+## 1. [Decentralization](https://github.com/AINFTs/AINFT-Lab/blob/master/files/220629_Decentralization_introHSK.pptx) - 김형섭님, 박정환님
 
 DAO의 정의 및 특징을 소개하고, 국내외에서 활용되고 있는 사례를 중심으로
 
