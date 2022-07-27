@@ -122,22 +122,14 @@ AINFT 랩은 AI와 NFT의 결합이라는 새로운 시도를 통해 NFT의 새�
 - [Decentralization and Valuation](https://github.com/AINFTs/AINFT-Lab/blob/master/docs/6-week.md#2-decentralization-and-valuation---%EA%B9%80%EB%AF%BC%ED%98%84%EB%8B%98) - 김민현님
 - [프로젝트 아이디어 및 멤버 모집](https://github.com/AINFTs/AINFT-Lab/blob/master/docs/6-week.md#3-ainft-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4-%EB%B0%8F-%EB%A9%A4%EB%B2%84-%EB%AA%A8%EC%A7%91)
 
-[6주차 상세](docs/6-week.md)
-
 ### 7주차
-- NFT 1
-
-[7주차 상세](docs/7-week.md)
+- [NFT](https://github.com/AINFTs/AINFT-Lab/blob/master/docs/7-week.md#1-nft---%EC%A1%B0%EC%9D%80%EC%84%A0%EB%8B%98-%EA%B9%80%EA%B2%BD%ED%99%98%EB%8B%98-%EC%A0%95%EC%84%B8%EC%9B%90%EB%8B%98) - 조은선님, 김경환님, 정세원님
 
 ### 8주차
-- NFT 2
-
-[8주차 상세](docs/8-week.md)
+- [Study NFT](https://github.com/AINFTs/AINFT-Lab/blob/master/docs/8-week.md#1-study-nft---%EA%B9%80%EC%8A%B9%ED%83%9D%EB%8B%98-%EA%B9%80%EC%98%81%ED%9B%88%EB%8B%98) - 김승택님, 김영훈님
 
 ### 9주차
-- [The Non-Fungible Token Bible: Everything you need to know about NFTs](https://opensea.io/blog/guides/non-fungible-tokens/#What_is_a_non-fungible_token)
-
-[9주차 상세](docs/9-week.md)
+- [Fan based collectable NFT](https://github.com/AINFTs/AINFT-Lab/blob/master/docs/9-week.md#1-fan-based-collectable-nft---%EA%B3%A0%EC%9A%94%EC%97%98%EB%8B%98-richard%EB%8B%98-%EA%B9%80%EC%A7%80%ED%95%98%EB%8B%98-%EC%95%88%EC%9E%AC%EA%B4%80%EB%8B%98) - 고요엘님, Richard님, 김지하님, 안재관님
 
 ### 10주차
 - Creators & Metaverse
