@@ -9,4 +9,6 @@
 
 ## 3. [AINFT 프로젝트 아이디어 및 멤버 모집](https://github.com/orgs/AINFTs/projects/1/views/1)
 
+## 4. [6주차 촬영본](https://drive.google.com/drive/folders/1RRRxpCc5Xqygyd9vKhnOZdX2EyGJNV5M)
+
 
