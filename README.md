@@ -162,7 +162,7 @@ AINFT 랩은 AI와 NFT의 결합이라는 새로운 시도를 통해 NFT의 새�
 
 - [x] AINFT Lab 멤버 모집
 - [x] Kick off
-- [ ] 팀빌딩
+- [x] 팀빌딩
 - [ ] AINFT 만들기
 - [ ] 작품전시
 - [ ] Party!
