@@ -132,12 +132,10 @@ AINFT 랩은 AI와 NFT의 결합이라는 새로운 시도를 통해 NFT의 새�
 - [Fan based collectable NFT](https://github.com/AINFTs/AINFT-Lab/blob/master/docs/9-week.md#1-fan-based-collectable-nft---%EA%B3%A0%EC%9A%94%EC%97%98%EB%8B%98-richard%EB%8B%98-%EA%B9%80%EC%A7%80%ED%95%98%EB%8B%98-%EC%95%88%EC%9E%AC%EA%B4%80%EB%8B%98) - 고요엘님, Richard님, 김지하님, 안재관님
 
 ### 10주차
-- Creators & Metaverse
-
-[10주차 상세](docs/10-week.md)
+- 조별 프로젝트 진행
 
 ### 11주차
-작품 등록 + 전시 참여(가능하다면) + Party!
+- [Baby Shark NFT & AI Network Open House for Developers](https://www.eventbrite.com.au/e/baby-shark-nft-ai-network-open-house-for-developers-tickets-394140062537)
 
 [11주차 상세](docs/11-week.md)
 
