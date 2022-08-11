@@ -144,18 +144,10 @@ AINFT 랩은 AI와 NFT의 결합이라는 새로운 시도를 통해 NFT의 새�
 
 ### 11주차
 
-- [AINFT Lab 최종발표 영상](https://drive.google.com/file/d/1K9FkMzbQw8MnjLODRbR5wYOdqfY1CE_g/view?usp=sharing)
-- Baby Shark NFT & AI Network Open House for Developers [행사 상세]()
-
-
-### 1. AINFT Lab [최종행사 발표자료](https://github.com/AINFTs/AINFT-Lab/blob/master/files/AINFT_LAB_final.pdf) - 유민정님
-
-### 2. 프로젝트 [빵냥이 PFP](https://github.com/AINFTs/AINFT-Lab/blob/master/files/Bready_Cat_NFT.pdf) 발표 - 조은정님, 이동민님, 전선영님, 고요엘님, 장래영님
-
-### 3. 프로젝트 [AI Chatbot & Future Entertainment]() 발표 - 박지은님, 김민현님
-
-### 4. 발표 영상 & 사진
-
+- [AINFT Lab 마지막 행사](https://github.com/AINFTs/AINFT-Lab/blob/master/docs/11-week.md#1-ainft-lab-%EC%B5%9C%EC%A2%85%ED%96%89%EC%82%AC-%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C---%EC%9C%A0%EB%AF%BC%EC%A0%95%EB%8B%98)
+- [빵냥이 PFP](https://github.com/AINFTs/AINFT-Lab/blob/master/docs/11-week.md#2-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B9%B5%EB%83%A5%EC%9D%B4-pfp-%EB%B0%9C%ED%91%9C---%EC%A1%B0%EC%9D%80%EC%A0%95%EB%8B%98-%EC%9D%B4%EB%8F%99%EB%AF%BC%EB%8B%98-%EC%A0%84%EC%84%A0%EC%98%81%EB%8B%98-%EA%B3%A0%EC%9A%94%EC%97%98%EB%8B%98-%EC%9E%A5%EB%9E%98%EC%98%81%EB%8B%98)
+- [AI Chatbot & Future Entertainment](https://github.com/AINFTs/AINFT-Lab/blob/master/docs/11-week.md#3-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-ai-chatbot--future-entertainment-%EB%B0%9C%ED%91%9C---%EB%B0%95%EC%A7%80%EC%9D%80%EB%8B%98-%EA%B9%80%EB%AF%BC%ED%98%84%EB%8B%98)
+- [발표 영상 & 행사 사진](https://github.com/AINFTs/AINFT-Lab/blob/master/docs/11-week.md#%EB%B0%9C%ED%91%9C-%EC%98%81%EC%83%81--%ED%96%89%EC%82%AC-%EC%82%AC%EC%A7%84)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
