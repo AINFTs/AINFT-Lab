@@ -204,7 +204,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-contact@comcom.ai
+laeyoung@comcom.ai
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
